@@ -1,4 +1,4 @@
 # desenvolve-introducao-web
-Cidade: Projeto Desenvolve - Itabira
-Nome da disciplina: Programação Básica Web
-Seu número de matrícula: PDITA525
+:cityscape: - Cidade: Projeto Desenvolve - Itabira
+:notebook: - Nome da disciplina: Programação Básica Web
+:old_key: - Seu número de matrícula: PDITA525
